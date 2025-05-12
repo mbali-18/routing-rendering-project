@@ -23,6 +23,12 @@ ul {
   padding: 0;
 }
 
+/* .test {
+ border: red;
+ border-width: 2px;
+ border-style: solid;
+} */
+
 #page {
   width: 90%;
   max-width: 60rem;
